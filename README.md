@@ -1,4 +1,4 @@
-#js_probe_Intranet
+js_probe_Intranet
 利用xss探测内网
 
 这个小工具的原理很简单，通过webrtc获取内网地址，然后将内网地址遍历
